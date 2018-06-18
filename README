@@ -25,7 +25,7 @@ Features:
   line of your C source, and execute it directly from the command
   line.
 
-Documentation:
+Documentation for everything: 
 -------------
 
 1) Installation on a i386 Linux host (for Windows read tcc-win32.txt)
