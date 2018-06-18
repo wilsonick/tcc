@@ -52,7 +52,7 @@ You can begin your C script with '#!/usr/local/bin/tcc -run' on the first
 line and set its execute bits (chmod a+x your_script). Then, you can
 launch the C code as a shell or perl script :-) The command line
 arguments are put in 'argc' and 'argv' of the main functions, as in
-ANSI C.
+ANSI C. Blah Blah Test!
 
 3) Examples
 
